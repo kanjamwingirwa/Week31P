@@ -1,1 +1,1 @@
-# Week31P
+This is the independent project of week 3 as prepared by Kanja Farnadis. It contains a python collaboratory notebook with python code analyzing a data set as provided by the Moringa School Technical Mentors. It also contains a Data report saved on Google Docs to explain the thinking process behind the analysis of data. 
